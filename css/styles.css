@@ -153,6 +153,21 @@ form button:hover {
     background-color: #b38e2e; 
 }
   
+  .social-icons {
+  margin-top: 10px;
+}
+
+  .social-icons a {
+  margin: 0 10px;
+  color: #d4af37; /* Gold color */
+  font-size: 24px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+  .social-icons a:hover {
+  color: #b38e2e; /* Darker gold on hover */
+}
   
   footer {
     text-align: center;
